@@ -1,0 +1,10 @@
+{
+  "teacher": {"password": "1234", "role": "teacher"},
+  "admin": {"password": "1234", "role": "admin"},
+  "admin1": {"password": "12345", "role": "admin"},
+  "student18886": {"password": "12345", "role": "student"},
+  "Ali": {"password": "123456", "role": "student"},
+  "Abdiwasac": {"password": "37772", "role": "student"},
+  "Abdirahman": {"password": "37766", "role": "student"},
+  "Abdiqani": {"password": "37764", "role": "student"}
+}
